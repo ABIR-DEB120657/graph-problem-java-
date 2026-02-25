@@ -1,3 +1,4 @@
+
 package arrarys;
 
 public class dadadidi {
@@ -25,3 +26,4 @@ public class dadadidi {
 
     }
 }
+
